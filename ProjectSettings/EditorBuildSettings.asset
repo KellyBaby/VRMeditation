@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Med_Blue_Scene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
   - enabled: 1
-    path: Assets/HelloCardboard.unity
-    guid: 145a2a45d7bc746b19cb68410368bf96
+    path: Assets/Scenes/Med_Pink_Scene.unity
+    guid: 7891ade52adec924fb846014b38d41cb
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f5bc996966b993c4bb9d7ece215992df, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e6601cca2e039ad43881ae0847c661a1, type: 2}
